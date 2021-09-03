@@ -1,0 +1,5 @@
+Interpreter :-
+              interpreter translate only one statement of program at a time.
+             
+Compiler   :- 
+              compiler scan the entire program and translate the whole program into machine code at once.
